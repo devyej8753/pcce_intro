@@ -9,6 +9,10 @@ public class Run {
 		
 		int n2 = s1.solution(100, 2);
 		System.out.println("100, 2일때 : "+n2);
+		
+		
+		
+		
 
 	}
 
